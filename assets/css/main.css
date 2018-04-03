@@ -2779,16 +2779,16 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #e44c65;
+			background-color: #1976D2;
 			box-shadow: none;
-			color: #ffffff !important;
+			color: #E3F2FD !important;
 		}
 
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #e76278;
+				background-color: #64B5F6;
 			}
 
 			input[type="submit"].special:active,
