@@ -3321,11 +3321,11 @@
 	body.landing #page-wrapper {
 		padding-top: 0;
 	}
-
+    /*Establecer el comportamiento del header(padre-nav);*/
 	body.landing #header {
-		background: transparent;
+		background: #272833;
 		box-shadow: none;
-		position: absolute;
+		position: fixed;
 	}
 
 /* Banner */
