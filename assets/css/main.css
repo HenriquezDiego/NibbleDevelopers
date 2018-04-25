@@ -2445,6 +2445,13 @@
 
 /* Image */
 
+
+.imgRedonda {
+    width:45px;
+    height:45px;
+    border-radius:150px;
+    border:1px solid #666;
+}
 	.image {
 		border-radius: 4px;
 		border: 0;
