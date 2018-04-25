@@ -2706,7 +2706,7 @@
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
-		appearance: none;
+		-appearance: none;
 		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
@@ -2782,6 +2782,8 @@
 			background-color: #1976D2;
 			box-shadow: none;
 			color: #E3F2FD !important;
+			
+			
 		}
 
 			input[type="submit"].special:hover,
@@ -3280,15 +3282,18 @@
 			position: absolute;
 			right: 1em;
 			top: 0;
+		
 		}
 
 			#header nav ul {
 				margin: 0;
+				
 			}
 
 				#header nav ul li {
 					display: inline-block;
 					margin-left: 1em;
+					
 				}
 
 					#header nav ul li a, #header nav ul li span {
@@ -3298,6 +3303,7 @@
 						height: inherit;
 						line-height: inherit;
 						outline: 0;
+						
 					}
 
 						#header nav ul li a.button, #header nav ul li span.button {
@@ -3326,6 +3332,7 @@
 		background: #272833;
 		box-shadow: none;
 		position: fixed;
+		justify-content: left;
 	}
 
 /* Banner */
