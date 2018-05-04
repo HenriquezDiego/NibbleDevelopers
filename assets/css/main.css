@@ -1584,7 +1584,7 @@
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			color: #1976D2 !important;
 			border-bottom-color: transparent;
 		}
 
@@ -2741,8 +2741,8 @@
 		input[type="button"]:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 1px #e44c65;
-			color: #e44c65 !important;
+			box-shadow: inset 0 0 0 1px #1976D2;
+			color: #1976D2 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2804,7 +2804,7 @@
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #e13652;
+				background-color: #1976D2;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
